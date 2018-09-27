@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "105314592236",
+    "firebase_url": "https://mobilewebview-f2aae.firebaseio.com",
+    "project_id": "mobilewebview-f2aae",
+    "storage_bucket": "mobilewebview-f2aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105314592236:android:b15aa65d07c977f8",
+        "android_client_info": {
+          "package_name": "com.dalong.mobilewebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105314592236-nii2lm52m90oq0b5e8896h47u7gmas3s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "105314592236-nii2lm52m90oq0b5e8896h47u7gmas3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaspDxsBR3TB_Bt9eWYuW4VTRkhSRudv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
